@@ -1,4 +1,4 @@
-# Real-Time-Stock-Market-Prediction
+# Real-Time-Stock-Price-Prediction
 A machine learning project that predicts stock price trends in real-time using historical data, technical indicators, and trained ML/DL models.
 
 📌 Project Overview
